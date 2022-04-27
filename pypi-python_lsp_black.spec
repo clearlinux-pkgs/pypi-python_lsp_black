@@ -4,7 +4,7 @@
 #
 Name     : pypi-python_lsp_black
 Version  : 1.0.1
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/ad/94/91a728f446773aed7dd975bebf229ace57cc901a1ed79d64d3b7ded9d9e1/python-lsp-black-1.0.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ad/94/91a728f446773aed7dd975bebf229ace57cc901a1ed79d64d3b7ded9d9e1/python-lsp-black-1.0.1.tar.gz
 Summary  : Black plugin for the Python LSP Server
@@ -14,9 +14,6 @@ Requires: pypi-python_lsp_black-license = %{version}-%{release}
 Requires: pypi-python_lsp_black-python = %{version}-%{release}
 Requires: pypi-python_lsp_black-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-Provides: python-lsp-black
-Provides: python-lsp-black-python
-Provides: python-lsp-black-python3
 BuildRequires : pypi(black)
 BuildRequires : pypi(python_lsp_server)
 BuildRequires : pypi(toml)
@@ -65,7 +62,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1641483953
+export SOURCE_DATE_EPOCH=1651102383
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
