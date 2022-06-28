@@ -4,7 +4,7 @@
 #
 Name     : pypi-python_lsp_black
 Version  : 1.2.1
-Release  : 10
+Release  : 11
 URL      : https://files.pythonhosted.org/packages/e1/af/f7264929c245db802f93d4e1abef57ec3dc9d50231aff87d9baea56b439b/python-lsp-black-1.2.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e1/af/f7264929c245db802f93d4e1abef57ec3dc9d50231aff87d9baea56b439b/python-lsp-black-1.2.1.tar.gz
 Summary  : Black plugin for the Python LSP Server
@@ -56,7 +56,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656380078
+export SOURCE_DATE_EPOCH=1656402128
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
