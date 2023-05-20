@@ -1,5 +1,5 @@
 PKG_NAME := pypi-python_lsp_black
-URL = https://files.pythonhosted.org/packages/e1/af/f7264929c245db802f93d4e1abef57ec3dc9d50231aff87d9baea56b439b/python-lsp-black-1.2.1.tar.gz
+URL = https://files.pythonhosted.org/packages/ad/1b/f20e612a33f9dcc2a0863a42ee62cc4f30ee724f1e7cc869b92c786c8ebd/python-lsp-black-1.3.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
