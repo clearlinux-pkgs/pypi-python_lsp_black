@@ -7,7 +7,7 @@
 #
 Name     : pypi-python_lsp_black
 Version  : 2.0.0
-Release  : 20
+Release  : 21
 URL      : https://files.pythonhosted.org/packages/c0/48/06edc947f711fb076b564ee97bbecb5ae877816ccc0edf4347f57cd9d6b9/python-lsp-black-2.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c0/48/06edc947f711fb076b564ee97bbecb5ae877816ccc0edf4347f57cd9d6b9/python-lsp-black-2.0.0.tar.gz
 Summary  : Black plugin for the Python LSP Server
